@@ -1,6 +1,7 @@
 # Task1
--Install ultralytics module using pip install ultralytics
--Create an custom yolov8 nano module and train the module using annoted data
+#Install ultralytics module using pip install ultralytics.
+
+#Create an custom yolov8 nano module and train the module using annoted data.
 -We have to configure the model for training that is done using config.yaml file
 -Run the model
 -After training we predict the result using 
