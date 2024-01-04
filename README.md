@@ -1,4 +1,4 @@
-                      # Task1
+# Task1
 # -Install ultralytics module using pip install ultralytics.
 
 # -Create an custom yolov8 nano module and train the module using annoted data.
